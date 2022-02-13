@@ -1,0 +1,1 @@
+eosio-cpp addressbook.cpp -o addressbook.wasm
